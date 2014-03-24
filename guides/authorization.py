@@ -44,9 +44,9 @@ REDIRECT_URI = "http://127.0.0.1:8000"
 HOST_NAME = '127.0.0.1'
 PORT_NUMBER = 8000
 
-api_key = None
-client_id = None
-client_secret = None
+api_key = "u646bvmm3mst7aqs6y99nzh5"
+client_id = "AmolShendre"
+client_secret = "code"
 
 def oauth_dialog(client_id, redirect_uri, api_key):
     # Construct the oauth_dialog_url
